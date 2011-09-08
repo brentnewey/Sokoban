@@ -1,0 +1,8 @@
+  q - save and quit
+  z - undo
+  x - redo
+  r - restart
+  arrows - move
+  vi-keys (hjklyubn) - move
+  ; - select destination (arrows or vi-keys to move,
+    ENTER or ; to select a tile)

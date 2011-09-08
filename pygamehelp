@@ -1,0 +1,11 @@
+KEYS
+  q - save and quit
+  z - undo           x - redo
+  r - restart
+  arrows, vi-keys (hjklyubn) - move
+  shift + number-keys - save bookmark
+  number-keys - load bookmark
+
+MOUSE
+  left - move / push adjacent
+  right - undo    
